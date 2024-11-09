@@ -1,5 +1,5 @@
 [![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210317125205/Java-Backend-Development-%E2%80%93-Live-Course-By-GeeksforGeeks1.png)](https://abdulrashid06.github.io)
-### Hi 👋, I'm Abdul Rashid
+### Hi 👋, I'm Sabir Ansari
 
 <h3> A passinated Backend Developer from India <h3>
   
@@ -9,13 +9,13 @@
 # 💫 About Me:
 🔭 I’m currently working on **Data Structures and Algorithms**
 <br>
-👯 I’m looking to collaborate on **Full-Stack Web Apps**
+👯 I’m looking to collaborate on **Python Projects**
 <br>
-🌱 I’m currently learning  **Spring, Hibernate**
+🌱 I’m currently learning  **Python,Flask,OpenAI**
 <br>
 💬 Ask me about anything **either I'll recall or I'll learn**
 <br>
-📫 How to reach me **abdulrashid987655@gmail.com**
+📫 How to reach me **sabiransari9125@gmail.com**
 <!--   <br>
 All of my projects are available at [https://abdulrashid06.github.io/](https://abdulrashid06.github.io/) -->
 
